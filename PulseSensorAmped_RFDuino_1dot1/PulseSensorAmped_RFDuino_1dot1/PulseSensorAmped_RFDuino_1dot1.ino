@@ -6,6 +6,8 @@ All thats been modified here is to comment out the LED lights as I dodn't have a
 
 interrupt.ino has changes to RFDuino timers
 
+Will Simm 2015
+
 */
 /*
 >> Pulse Sensor Amped 1.1 <<
